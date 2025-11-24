@@ -12,3 +12,4 @@ moviepy==1.0.3
 scikit-learn
 tqdm
 google-generativeai
+cloudinary
