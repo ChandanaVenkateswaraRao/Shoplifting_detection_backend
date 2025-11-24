@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pymongo
+firebase-admin
+requests
+python-multipart
+ultralytics
+tensorflow==2.15.0
+opencv-python
+moviepy==1.0.3
+scikit-learn
+tqdm
+google-generativeai
